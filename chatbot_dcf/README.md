@@ -1,44 +1,29 @@
-# chatbot_dcf
+##internal title : Clojure user interaction
 
-FIXME: description
 
-## Installation
+Table of contents :
+	1- Project's Presentations
+	2- Technologie use
+	3- How to Launch
+	4- Sources
 
-Download from http://example.com/FIXME.
+###1- Project's Presentation
 
-## Usage
+	this project is a chatbot and his goal is to help you find a park in Prague that suits you. This chatbot will find you the best park to do your jogging
+	or the more beautifull see spot...
 
-FIXME: explanation
+###2- Technologie use
 
-    $ java -jar chatbot_dcf-0.1.0-standalone.jar [args]
+	For this project, we used a language named Clojure. We also worked on GitHub.
 
-## Options
+###3- How to launch
 
-FIXME: listing of options this app accepts.
+        The programm is launched using Leiningen.
+        Use the command <lein run> once the prompter is in the project file.
 
-## Examples
+###4- Sources
+	
+	For the code : - https://clojuredocs.org/clojure.core/contains_q
+		       - https://clojuredocs.org/clojure.core/defn
 
-...
-
-### Bugs
-
-...
-
-### Any Other Sections
-### That You Think
-### Might be Useful
-
-## License
-
-Copyright © 2021 FIXME
-
-This program and the accompanying materials are made available under the
-terms of the Eclipse Public License 2.0 which is available at
-http://www.eclipse.org/legal/epl-2.0.
-
-This Source Code may also be made available under the following Secondary
-Licenses when the conditions for such availability set forth in the Eclipse
-Public License, v. 2.0 are satisfied: GNU General Public License as published by
-the Free Software Foundation, either version 2 of the License, or (at your
-option) any later version, with the GNU Classpath Exception which is available
-at https://www.gnu.org/software/classpath/license.html.
+	For the README file : - https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project
