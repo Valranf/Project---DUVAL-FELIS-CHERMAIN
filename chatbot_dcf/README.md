@@ -9,7 +9,7 @@ Table of contents :
 
 ###1- Project's Presentation
 
-	this project is a chatbot and his goal is to help you find a park in Prague that suits you. This chatbot will find you the best park to do your jogging
+	This project is a chatbot and his goal is to help you find a park in Prague that suits you. This chatbot will find you the best park to do your jogging
 	or the more beautifull see spot...
 
 ###2- Technologie use
@@ -19,7 +19,7 @@ Table of contents :
 ###3- How to launch
 
         The programm is launched using Leiningen.
-        Use the command <lein run> once the prompter is in the project file.
+        Use the command <lein run> once the shell is in "/chatbot_dcf" file.
 
 ###4- Sources
 	
